@@ -3,7 +3,6 @@ import queue
 import re
 from concurrent.futures import ThreadPoolExecutor
 
-from pygments.lexers.sql import re_error
 from rich.progress import track
 
 from download_utils.single import download
