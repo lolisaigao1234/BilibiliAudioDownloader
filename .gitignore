@@ -1,2 +1,5 @@
 *.flac
 result
+
+# Login session cookies - never commit
+bcookies.txt
